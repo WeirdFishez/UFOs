@@ -20,5 +20,5 @@ Drawback of this webpage
 
 Recommendations for further development
 - Add more features to the search boxes
-	- Use REGEX to allow users to input city, state, country, shape without being case sensitive.]
+	- Use REGEX to allow users to input city, state, country, shape without being case sensitive.
 	- Auto-populate available search terms in a drop down to make it easier for users to know what options are in the data.
