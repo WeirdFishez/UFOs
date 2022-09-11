@@ -16,7 +16,7 @@ Utilize the filter option to isolate data by city, state, country, or shape of U
 
 ## Summary:
 ### Drawback of this webpage
-- The major drawbacks of this page is that the search bars will take in any type of input, regardless of whether it's present in the data or not. This can result in some negative end-user experience as they will get 0 results if there is a typo in their search criteria, their case doesn’t match data, or date formatting is incorrect.
+- The major drawback of this page is that the search bars will take in any input, regardless of whether it's present in the data or not. This can result in some negative end-user experience as they will get 0 results if there is a typo in their search criteria, their case doesn’t match data, or date formatting is incorrect.
 
 ### Recommendations for further development
 - Add more features to the search boxes
