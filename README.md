@@ -5,12 +5,12 @@ The purpose of this project was to create an in-depth tool that presents UFO sig
 
 ## Quick Start: How to use this site 
 Load the initial page which will populate a html webpage with data summarizing UFO sightings in an organized table
+![image](https://user-images.githubusercontent.com/107438816/189554452-90daef5f-34e8-4de5-8d13-af09ab4eeecc.png)
 
-	![image](https://user-images.githubusercontent.com/107438816/189554433-5d1e91bc-a7de-4f0e-b1f4-b7818abae2e1.png)
 
 
 Utilize the filter option to isolate data by city, state, country, or shape of UFO.
-	![image](https://user-images.githubusercontent.com/107438816/189554392-d5b0bf4e-3a3b-4ca3-99c3-0612f96d6c1d.png)
+![image](https://user-images.githubusercontent.com/107438816/189554392-d5b0bf4e-3a3b-4ca3-99c3-0612f96d6c1d.png)
 
 	
 
