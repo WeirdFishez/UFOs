@@ -23,4 +23,4 @@ Next steps on improving this webpage to be more user friendly would be;
 
 Add more features to the search boxes
 -Use REGEX to allow users to input city, state, country, shape without being case sensitive.]
--Auto-populate available search terms in a drop down to make it easier for users to know what options are in the data.![image](https://user-images.githubusercontent.com/107438816/189554365-c51dc56c-bf10-4e94-9d8a-999789f4cd39.png)
+-Auto-populate available search terms in a drop down to make it easier for users to know what options are in the data.
