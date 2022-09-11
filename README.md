@@ -16,11 +16,9 @@ Utilize the filter option to isolate data by city, state, country, or shape of U
 
 ## Summary:
 Drawback of this webpage
-The major drawbacks of this page is that the search bars will take in any type of input, regardless of whether it's present in the data or not. This can result in some negative end-user experience as they will get 0 results if there is a typo in their search criteria, their case doesn’t match data, or date formatting is incorrect.
+- The major drawbacks of this page is that the search bars will take in any type of input, regardless of whether it's present in the data or not. This can result in some negative end-user experience as they will get 0 results if there is a typo in their search criteria, their case doesn’t match data, or date formatting is incorrect.
 
 Recommendations for further development
-Next steps on improving this webpage to be more user friendly would be;
-
-Add more features to the search boxes
--Use REGEX to allow users to input city, state, country, shape without being case sensitive.]
--Auto-populate available search terms in a drop down to make it easier for users to know what options are in the data.
+- Add more features to the search boxes
+	- Use REGEX to allow users to input city, state, country, shape without being case sensitive.]
+	- Auto-populate available search terms in a drop down to make it easier for users to know what options are in the data.
