@@ -1,6 +1,6 @@
 # UFOs
 
-## bOverview
+## Overview
 The purpose of this project was to create an in-depth tool that presents UFO sightings across North America and allows users to filter for multiple criteria at the same time.
 
 ## Quick Start: How to use this site 
